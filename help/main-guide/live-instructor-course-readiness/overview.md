@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ライブインストラクター向けコースに参加する前に、学習ジャーニーを成功させるために準備をしましょう。 リンクされたトピック名（各項目の最初の単語）を選択して、そのセクションに移動します。
 
-* [ ライブ インストラクター向けコースの準備](/help/main-guide/live-instructor-course-readiness/course-preparation/prepare-for-live-instructor-course.md)：登録後に期待される内容、クラス環境へのアクセス方法、トレーニングを成功させる方法について説明します。
-* [ ライブインストラクターのコースセッションに参加](/help/main-guide/live-instructor-course-readiness/course-preparation/join-live-instructor-course-session.md)：カレンダーの招待状がない場合のバックアップ手順など、クラスの当日にライブセッションに参加する方法を説明します。
-* [ ライブ インストラクターのコースの必要システム構成](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)：すべてのライブ インストラクターのコースに適用されるAdobe Connect、ハードウェア、ソフトウェアの要件を確認します。
-* [ ソリューション別の追加システム要件](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md): AEM Edge Delivery Services Development、AEM Sites、Campaign、Experience Platform、およびTargetの追加システム要件を確認します。
+* [&#x200B; ライブ インストラクター向けコースの準備](/help/main-guide/live-instructor-course-readiness/course-preparation/prepare-for-live-instructor-course.md)：登録後に期待される内容、クラス環境へのアクセス方法、トレーニングを成功させる方法について説明します。
+* [&#x200B; ライブインストラクターのコースセッションに参加](/help/main-guide/live-instructor-course-readiness/course-preparation/join-live-instructor-course-session.md)：カレンダーの招待状がない場合のバックアップ手順など、クラスの当日にライブセッションに参加する方法を説明します。
+* [&#x200B; ライブ インストラクターのコースの必要システム構成](/help/main-guide/live-instructor-course-readiness/system-requirements/live-instructor-course-system-requirements.md)：すべてのライブ インストラクターのコースに適用されるAdobe Connect、ハードウェア、ソフトウェアの要件を確認します。
+* [&#x200B; ソリューション別の追加システム要件](/help/main-guide/live-instructor-course-readiness/system-requirements/additional-system-requirements-by-solution.md): AEM Edge Delivery Services Development、AEM Sites、Campaign、Experience Platform、およびTargetの追加システム要件を確認します。

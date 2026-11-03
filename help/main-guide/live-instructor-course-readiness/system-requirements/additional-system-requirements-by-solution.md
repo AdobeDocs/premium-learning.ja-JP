@@ -29,7 +29,7 @@ ht-degree: 2%
 
 Adobe Experience Manager テクニカル コースの場合は、**[!DNL ReadyTech]**&#x200B;というバーチャル マシン ソフトウェアを使用します。 クラスの前に、次のことを確認してください。
 
-1. [ パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
+1. [&#x200B; パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
 1. アクセシビリティの事前確認を完了し、[[!DNL ReadyTech]  ログイン画面](https://axis.readytech.com/#/login)へのアクセスのみを確認します（ログインしないでください）。
 
 ## Adobe Campaign
@@ -38,7 +38,7 @@ Campaign クライアントはWindowsのみのアプリケーションです。 
 
 Windows マシンまたはソフトウェアをインストールする機能がない場合は、次のことを確認してください。
 
-1. [ パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
+1. [&#x200B; パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
 1. アクセシビリティの事前確認を完了し、[[!DNL ReadyTech]  ログイン画面](https://axis.readytech.com/#/login)へのアクセスのみを確認します（ログインしないでください）。
 
 ## Adobe Experience Platform
@@ -47,7 +47,7 @@ Windows マシンまたはソフトウェアをインストールする機能が
 
 ソフトウェアをインストールする機能がない場合は、次のことを確認してください。
 
-1. [ パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
+1. [&#x200B; パフォーマンスの事前確認](https://adobe.instructorled.training/system-precheck)を完了
 1. アクセシビリティの事前確認を完了し、[[!DNL ReadyTech]  ログイン画面](https://axis.readytech.com/#/login)へのアクセスのみを確認します（ログインしないでください）。
 
 ## Adobe Target

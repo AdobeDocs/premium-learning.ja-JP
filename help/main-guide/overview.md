@@ -17,10 +17,10 @@ ht-degree: 0%
 
 よくある質問への回答を見つけます。 リンクされたトピック名（各項目の最初の単語）を選択して、そのセクションに移動します。
 
-* [ テクニカルサポート ](/help/main-guide/technical-support.md)：会議室やコンテンツの立ち上げや、クラス内のエクスペリエンスに関する問題の解決に役立ちます。
-* [学習オプション ](/help/main-guide/learning-options.md)：提供されるトレーニングオプションを調べて、自分に適したものを見つけます。
-* [再スケジュールとキャンセル ](/help/main-guide/reschedule-and-cancellation-policies.md)：解約または再スケジュールのオプションを確認し、ポリシーの詳細を確認します。
+* [&#x200B; テクニカルサポート &#x200B;](/help/main-guide/technical-support.md)：会議室やコンテンツの立ち上げや、クラス内のエクスペリエンスに関する問題の解決に役立ちます。
+* [学習オプション &#x200B;](/help/main-guide/learning-options.md)：提供されるトレーニングオプションを調べて、自分に適したものを見つけます。
+* [再スケジュールとキャンセル &#x200B;](/help/main-guide/reschedule-and-cancellation-policies.md)：解約または再スケジュールのオプションを確認し、ポリシーの詳細を確認します。
 * [Premium Learning サブスクリプションの利用条件](/help/main-guide/terms-and-conditions.md):Premium Learning サブスクリプションの利用条件をすべて表示します。
-* [行く前に知る：コホート ](/help/main-guide/cohorts/overview.md)：コホート体験の概要と期待できること。
+* [行く前に知る：コホート &#x200B;](/help/main-guide/cohorts/overview.md)：コホート体験の概要と期待できること。
 * [Premium Learning サブスクリプションに関する情報](/help/main-guide/premium-learning-subscription/overview.md)：特典や含まれる内容など、Premium Learning サブスクリプションについて説明します。
-* [ コースに参加する前に知る：ライブ インストラクターのコース ](/help/main-guide/live-instructor-course-readiness/overview.md)：学習ジャーニーを成功させるために準備し、ライブ インストラクターのコースに参加する前にシステム要件を確認します。
+* [&#x200B; コースに参加する前に知る：ライブ インストラクターのコース &#x200B;](/help/main-guide/live-instructor-course-readiness/overview.md)：学習ジャーニーを成功させるために準備し、ライブ インストラクターのコースに参加する前にシステム要件を確認します。

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 サブスクリプションのメリット、更新オプション、学習利用率に関するレポートをご覧ください。 詳細については、以下のリンクされたページ名を選択してください。
 
-* [ サブスクリプションの特典と更新](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)：サブスクリプションに含まれる内容と、学習コンテンツへのアクセスを維持する方法について説明します。
+* [&#x200B; サブスクリプションの特典と更新](/help/main-guide/premium-learning-subscription/subscription-benefits-and-renewal.md)：サブスクリプションに含まれる内容と、学習コンテンツへのアクセスを維持する方法について説明します。
 * [利用状況レポートの概要](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-overview.md)：利用状況レポートの対象、利用状況レポートを要求できる担当者、過去のデータを確認します。
 * [概要シートについて](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-summary-sheet.md)：主要な指標、登録傾向、完了率、出席、資格認定について理解します。
 * [登録の詳細を理解する](/help/main-guide/premium-learning-subscription/utilization-reports/utilization-report-enrollment-details-sheet.md)：受講者の登録データ、コースの進捗状況、重要な日付、出席の詳細を確認します。

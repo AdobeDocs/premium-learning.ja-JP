@@ -19,7 +19,7 @@ ht-degree: 0%
 
 コホートまたはコースへの登録をキャンセルするには：
 
-1. [**[!UICONTROL  マイラーニング ]**](https://experienceleague.adobe.com/en/premium/learnings) ページに記載されている登録を検索します。
+1. [**[!UICONTROL &#x200B; マイラーニング &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings) ページに記載されている登録を検索します。
 2. 「**[!UICONTROL 登録を解除]**」をクリックします。
 
 スケジュールの変更、キャンセル、および表示しないポリシーについて詳しくは、[利用条件](/help/main-guide/terms-and-conditions.md)を参照してください。
@@ -28,8 +28,8 @@ ht-degree: 0%
 
 別の日付にスケジュールを変更するには：
 
-1. コホートまたはコースから登録を解除します。 登録は、[**[!UICONTROL  マイラーニング ]**](https://experienceleague.adobe.com/en/premium/learnings) ページに一覧表示されています。
-2. [**[!UICONTROL  プレミアムカタログ ]**](https://experienceleague.adobe.com/en/premium/premium-search)に戻って、別のコホートまたはコースの日付に登録します。
+1. コホートまたはコースから登録を解除します。 登録は、[**[!UICONTROL &#x200B; マイラーニング &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings) ページに一覧表示されています。
+2. [**[!UICONTROL &#x200B; プレミアムカタログ &#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search)に戻って、別のコホートまたはコースの日付に登録します。
 
 スケジュールの変更、キャンセル、および表示しないポリシーについて詳しくは、[利用条件](/help/main-guide/terms-and-conditions.md)を参照してください。
 
