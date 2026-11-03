@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## Contributor Guide Documentation
 
-[&#x200B; コントリビューターガイド &#x200B;](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)を参照してください。
+[&#x200B; コントリビューターガイド &#x200B;](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
 
 ## よくある質問と？
 
@@ -56,4 +56,4 @@ submitting a pull request!
 
 ## セキュリティの問題
 
-セキュリティ上の問題は、この問題トラッカーで報告しないでください。 代わりに、[&#x200B; セキュリティのエキスパートに問題を報告してください](https://helpx.adobe.com/security/alertus.html)
+セキュリティ上の問題は、この問題トラッカーで報告しないでください。 代わりに、[&#x200B; セキュリティのエキスパートに問題を報告してください](https://helpx.adobe.com/jp/security/alertus.html)

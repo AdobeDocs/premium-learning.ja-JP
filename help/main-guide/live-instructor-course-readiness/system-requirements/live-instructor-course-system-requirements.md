@@ -19,7 +19,7 @@ ht-degree: 0%
 ライブセッションはAdobe Connectを使用して実施されます。 ライブセッション中に発生する技術的な問題を回避するために、次のチェックポイントを遵守する必要があります。
 
 1. この[診断テスト &#x200B;](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm)を実行して、Adobe Connectがシステムで正しく動作していることを確認します。
-1. Adobe Connectの[技術仕様](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)を確認します。
+1. Adobe Connectの[技術仕様](https://helpx.adobe.com/jp/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)を確認します。
 1. Adobe Connectには、ブラウザーまたはデスクトップアプリケーションから参加できます。 デスクトップアプリケーションが既にインストールされていて、問題が発生している場合は、Adobe Connect アプリケーションをアンインストールし、提供されている最新バージョン [ここ](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html)を使用して再インストールします。
 
 パーソナライズされたバーチャル会議室のリンクは、カレンダーの招待状に表示されます。 トレーニングの日には、クラスが開始する5～10分前にリンクを起動することをお勧めします。

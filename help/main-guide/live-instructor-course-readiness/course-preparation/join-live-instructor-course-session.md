@@ -23,7 +23,7 @@ ht-degree: 0%
 
 カレンダーの招待状がない場合、またはパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
 
-1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/ja/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. **[!UICONTROL Live Instructor]**&#x200B;で、コースを探します。
 1. 概要で、「**[!UICONTROL セッションの詳細]**」タブに切り替えて、自分が参加している日を見つけます。

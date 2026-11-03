@@ -54,5 +54,5 @@ Windows マシンまたはソフトウェアをインストールする機能が
 
 以下のChrome拡張機能をダウンロードしてインストールすることをお勧めします。
 
-* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home)
+* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/ja/docs/experience-platform/debugger/home)
 * [Adobe Target Visual Experience Composer](https://chromewebstore.google.com/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca?pli=1)

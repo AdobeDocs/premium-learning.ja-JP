@@ -35,4 +35,4 @@ ht-degree: 0%
 
 最後の週には、学習を適用するためのCapstone Challengeと、Adobe認定試験の準備のための認定準備の時間があります。
 
-コホート完了バッジは、[自分の実績](https://experienceleague.adobe.com/en/premium/my-achievements)で利用できます。
+コホート完了バッジは、[自分の実績](https://experienceleague.adobe.com/ja/premium/my-achievements)で利用できます。
