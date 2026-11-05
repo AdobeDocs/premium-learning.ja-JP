@@ -23,7 +23,7 @@ ht-degree: 0%
 
 カレンダーの招待状がない場合は、次のバックアップ手順に従って会議室を起動します。
 
-1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/ja/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. コホートを検索します。
 1. 適切な週に移動し、セッションを拡大します。
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 カレンダーの招待状に含まれるパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
 
-1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/ja/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. コホートを検索します。
 1. 適切な週に移動し、セッションを拡大します。

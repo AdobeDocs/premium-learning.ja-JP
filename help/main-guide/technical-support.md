@@ -31,8 +31,8 @@ ht-degree: 0%
 - 別のブラウザーをお試しください。
 - 別のネットワークまたはデバイスを試してください。 組織のネットワークまたはファイアウォールの設定により、バーチャル会議室にアクセスできない可能性があります。 可能な場合は、別のネットワークまたは個人用デバイスを使用してみてください。
 - オーディオデバイスの設定を有効にします。
-- Adobe Connectの[技術仕様](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)を確認します。
-- &#x200B;- エンジニアリングの推奨事項に従って、必要なドメイン、IP アドレス、ネットワークポートを許可リストに加えるします。 この[関連するAdobeの記事](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)を組織のIT チームと共有して、必要なUDP ポートとTCP ポートを許可し、適切なメディア接続を確保することをお勧めします。
+- Adobe Connectの[技術仕様](https://helpx.adobe.com/jp/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)を確認します。
+- &#x200B;- エンジニアリングの推奨事項に従って、必要なドメイン、IP アドレス、ネットワークポートを許可リストに加えるします。 この[関連するAdobeの記事](https://helpx.adobe.com/jp/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)を組織のIT チームと共有して、必要なUDP ポートとTCP ポートを許可し、適切なメディア接続を確保することをお勧めします。
 
 **その他のAdobe Connect リソース：**
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 カレンダーの招待状に含まれるパーソナライズされたリンクを使用して、会議室に参加します。
 
 カレンダーの招待状がない場合、またはパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
-1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/ja/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. **[!UICONTROL Live Instructor]**&#x200B;で、コースを探します。
 1. 概要が表示されます。 「**[!UICONTROL セッションの詳細]**」タブに切り替えて、自分が参加している日を見つけます。
@@ -57,7 +57,7 @@ ht-degree: 0%
 カレンダーの招待状に含まれるパーソナライズされたリンクを使用して、会議室に参加します。
 
 カレンダーの招待状がない場合、またはパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
-1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/ja/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. コホートを検索します。
 1. 適切な週に移動し、セッションを拡大します。
