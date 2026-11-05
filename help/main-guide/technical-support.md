@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 会議室やコンテンツの立ち上げに関するサポートが必要な場合は、 あなたのクラスでの経験に問題が生じた場合は、今すぐですか？
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## メール配信のヒント
 
-学習メールとカレンダーの招待状は[plsnore@adobe.com](mailto:plsnore@adobe.com)から送信されます。 重要な最新情報を確実に受け取るには、このメールアドレスを連絡先または安全な送信者リストに追加します。 電子メールを見逃したと思われる場合は、迷惑メールフォルダーと、フィルタリングされた受信トレイのタブ（Outlookの「**[!UICONTROL その他]**」タブなど）を確認してください。
+学習メールとカレンダーの招待状が[plsnore@adobe.com](mailto:plsnore@adobe.com)から送信されます（返信不可アドレス）。 重要な最新情報を確実に受け取るには、このメールアドレスを連絡先または安全な送信者リストに追加します。 電子メールを見逃したと思われる場合は、迷惑メールフォルダーと、フィルタリングされた受信トレイのタブ（Outlookの「**[!UICONTROL その他]**」タブなど）を確認してください。
 
 ここに記載されていない質問ですか？ [お問い合わせ](https://adobe.service-now.com/adls?category=6)。

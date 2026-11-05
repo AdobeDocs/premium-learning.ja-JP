@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## コホートライブセッションのカレンダーの招待状がありません。
 
-招待状は[plsnore@adobe.com](mailto:plsnore@adobe.com)から送信されます（学習関連の通知とカレンダーの招待状に使用されます）。 迷惑メールフォルダーおよびセカンダリ受信トレイのタブ（Outlookの&#x200B;**[!UICONTROL その他]** タブや類似のフィルタービューなど）を確認してください。
+招待状は[plsnore@adobe.com](mailto:plsnore@adobe.com)から送信されます（学習関連の通知とカレンダーの招待状に使用される返信不可のアドレス）。 迷惑メールフォルダーおよびセカンダリ受信トレイのタブ（Outlookの&#x200B;**[!UICONTROL その他]** タブや類似のフィルタービューなど）を確認してください。
 
 カレンダーの招待状&#x200B;**内のパーソナライズされたリンクを使用して、**&#x200B;までに会議室に参加します。
 

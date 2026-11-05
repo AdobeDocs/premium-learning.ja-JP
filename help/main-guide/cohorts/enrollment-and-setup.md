@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 アドビの電子メールとカレンダーの招待状が受信トレイに確実に届くように、連絡先または安全な送信者リストに次のアドレスを追加します。
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)** （学習関連の通知とカレンダーの招待に使用）
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)** （学習関連の通知とカレンダーの招待に使用される返信不可アドレス）
 
 **[environment@adobe.com](mailto:environment@adobe.com)**&#x200B;および&#x200B;**[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)** （サンドボックスおよび環境関連の通知に使用）
 
