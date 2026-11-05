@@ -20,7 +20,7 @@ ht-degree: 0%
 
 **次の手順を使用してセルフトラブルシューティングを実行できます：**
 
-1. この[診断テスト ](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm)を実行して、Adobe Connectがシステムで正しく動作していることを確認します。
+1. この[診断テスト &#x200B;](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm)を実行して、Adobe Connectがシステムで正しく動作していることを確認します。
 1. ブラウザー：ブラウザーのキャッシュをクリアしてから、ブラウザーを再起動します。 失敗した場合は、リンクをシークレットモードで開きます。
 1. Adobe Connectアプリ：会議リンクはブラウザーに適しているため、アプリは必要ありません。 ただし、デスクトップアプリケーションが既にインストールされていて、問題が発生している場合は、Adobe Connect アプリケーションをアンインストールし、提供されている最新バージョン [ここ](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html)を使用して再インストールします。
 
@@ -32,12 +32,12 @@ ht-degree: 0%
 - 別のネットワークまたはデバイスを試してください。 組織のネットワークまたはファイアウォールの設定により、バーチャル会議室にアクセスできない可能性があります。 可能な場合は、別のネットワークまたは個人用デバイスを使用してみてください。
 - オーディオデバイスの設定を有効にします。
 - Adobe Connectの[技術仕様](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)を確認します。
-- - エンジニアリングの推奨事項に従って、必要なドメイン、IP アドレス、ネットワークポートを許可リストに加えるします。 この[関連するAdobeの記事](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)を組織のIT チームと共有して、必要なUDP ポートとTCP ポートを許可し、適切なメディア接続を確保することをお勧めします。
+- &#x200B;- エンジニアリングの推奨事項に従って、必要なドメイン、IP アドレス、ネットワークポートを許可リストに加えるします。 この[関連するAdobeの記事](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)を組織のIT チームと共有して、必要なUDP ポートとTCP ポートを許可し、適切なメディア接続を確保することをお勧めします。
 
 **その他のAdobe Connect リソース：**
 
-- [Adobe Connect サポートブログ ](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/)。
-- Adobe Connect サポート：[ チャット ](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [ ホットライン ](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) （Premium Learningでトレーニングに参加している場合に言及）
+- [Adobe Connect サポートブログ &#x200B;](https://blogs.connectusers.com/connectsupport/adobe-connect-best-practices/)。
+- Adobe Connect サポート：[&#x200B; チャット &#x200B;](https://helpx.adobe.com/in/adobe-connect/connect-support.html) | [&#x200B; ホットライン &#x200B;](https://helpx.adobe.com/in/adobe-connect/adobe-connect-phone-numbers.html) （Premium Learningでトレーニングに参加している場合に言及）
 
 **音声に問題がありますか？** 上記のトラブルシューティング手順をすでに試していて、問題が解決しない場合は、組織のネットワークまたはセキュリティ設定により、オーディオが正しく動作しない可能性があります。 これを確認するには、社内IT チームに連絡し、その他のサポートについては[お問い合わせください](https://adobe.service-now.com/adls?category=26)。
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 カレンダーの招待状に含まれるパーソナライズされたリンクを使用して、会議室に参加します。
 
 カレンダーの招待状がない場合、またはパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
-1. [**[!UICONTROL My Learning ]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. **[!UICONTROL Live Instructor]**&#x200B;で、コースを探します。
 1. 概要が表示されます。 「**[!UICONTROL セッションの詳細]**」タブに切り替えて、自分が参加している日を見つけます。
@@ -57,7 +57,7 @@ ht-degree: 0%
 カレンダーの招待状に含まれるパーソナライズされたリンクを使用して、会議室に参加します。
 
 カレンダーの招待状がない場合、またはパーソナライズされたリンクから参加できない場合は、次のバックアップ手順に従って会議室を起動します。
-1. [**[!UICONTROL My Learning ]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
+1. [**[!UICONTROL My Learning &#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)に移動します。
 1. 「**[!UICONTROL 進行中の学習]**」セクションに移動します。
 1. コホートを検索します。
 1. 適切な週に移動し、セッションを拡大します。
